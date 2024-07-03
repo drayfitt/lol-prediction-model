@@ -1,0 +1,11 @@
+Model,Predictions,Match Percentage
+Logistic Regression,[1 0 1 1 0 0 0 0 0 0],70.0
+Random Forest,[1 1 1 1 0 0 1 1 0 1],70.0
+SVC,[1 1 1 1 1 1 1 1 0 1],70.0
+K-Nearest Neighbors,[1 1 0 0 1 1 0 1 1 1],50.0
+DecisionTreeClassifier,[1 1 1 1 1 0 1 0 0 1],50.0
+GradientBoostingClassifier,[1 1 1 1 0 0 1 0 0 1],60.0
+GaussianNB,[1 0 1 1 0 0 1 0 0 1],50.0
+MLPClassifier,[1 0 1 1 0 1 0 1 0 1],80.0
+XGBClassifier,[1 1 1 1 0 0 1 0 0 1],60.0
+Real data,[1 1 1 1 0 1 0 1 0 0],
